@@ -164,11 +164,11 @@ Partial Class ViewSubmissionsForm
         ' 
         Label4.AutoSize = True
         Label4.Font = New Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label4.Location = New Point(76, 9)
+        Label4.Location = New Point(30, 9)
         Label4.Name = "Label4"
-        Label4.Size = New Size(451, 25)
+        Label4.Size = New Size(488, 25)
         Label4.TabIndex = 13
-        Label4.Text = "Arpit Kumar ,Slidely 2nd Assignment - Slidely Form"
+        Label4.Text = "Arpit Kumar ,Slidely 2nd Assignment - View Submission"
         ' 
         ' btnUpdate
         ' 

@@ -146,11 +146,11 @@ Partial Class SubmissionForm
         ' 
         Label1.AutoSize = True
         Label1.Font = New Font("Segoe UI Emoji", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label1.Location = New Point(94, 21)
+        Label1.Location = New Point(69, 21)
         Label1.Name = "Label1"
-        Label1.Size = New Size(398, 21)
+        Label1.Size = New Size(458, 21)
         Label1.TabIndex = 12
-        Label1.Text = "Arpit Kumar,Slidely 2nd Assignment Slidely Form"
+        Label1.Text = "Arpit Kumar,Slidely 2nd Assignment - Create Submission"
         ' 
         ' Label2
         ' 
