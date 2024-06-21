@@ -135,7 +135,7 @@ Partial Class ViewSubmissionsForm
         ' 
         ' btnPrevious
         ' 
-        btnPrevious.Location = New Point(30, 392)
+        btnPrevious.Location = New Point(30, 378)
         btnPrevious.Name = "btnPrevious"
         btnPrevious.Size = New Size(192, 29)
         btnPrevious.TabIndex = 10
@@ -144,7 +144,7 @@ Partial Class ViewSubmissionsForm
         ' 
         ' btnNext
         ' 
-        btnNext.Location = New Point(337, 392)
+        btnNext.Location = New Point(338, 378)
         btnNext.Name = "btnNext"
         btnNext.Size = New Size(190, 29)
         btnNext.TabIndex = 11
@@ -153,7 +153,7 @@ Partial Class ViewSubmissionsForm
         ' 
         ' btnDelete
         ' 
-        btnDelete.Location = New Point(150, 466)
+        btnDelete.Location = New Point(150, 442)
         btnDelete.Name = "btnDelete"
         btnDelete.Size = New Size(260, 23)
         btnDelete.TabIndex = 12
@@ -172,7 +172,7 @@ Partial Class ViewSubmissionsForm
         ' 
         ' btnUpdate
         ' 
-        btnUpdate.Location = New Point(150, 427)
+        btnUpdate.Location = New Point(150, 413)
         btnUpdate.Name = "btnUpdate"
         btnUpdate.Size = New Size(260, 23)
         btnUpdate.TabIndex = 14
@@ -182,11 +182,11 @@ Partial Class ViewSubmissionsForm
         ' Label5
         ' 
         Label5.AutoSize = True
-        Label5.Location = New Point(12, 492)
+        Label5.Location = New Point(30, 477)
         Label5.Name = "Label5"
-        Label5.Size = New Size(483, 15)
+        Label5.Size = New Size(516, 30)
         Label5.TabIndex = 15
-        Label5.Text = "Note: These fields have been changed from Read-Only to Writable as well to allow updates"
+        Label5.Text = "Note: These fields have been changed from Read-Only to Writable as well to allow updates so we" & vbCrLf & "can change values" & vbCrLf
         ' 
         ' ViewSubmissionsForm
         ' 
